@@ -2,3 +2,9 @@ This is the first line.
 Today is sunday.
 I am hungry.
 aaaaaAAAAAAAAAAAAAaaAhAAHHAhAHhHAHAAhahhAahHAhAhHAhahhAHhHAHhAH
+
+Adding new lines.
+Alien 1.
+Xenomorph.
+Yutani.
+Chestbuster.
