@@ -2,4 +2,4 @@
 Git Pratcise Repo.
 
 
-<video src='"C:\Users\navya\Videos\Captures\GreenWhistle_Playthrough.mp4"' width=180/>
+<video src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" width=180/>
