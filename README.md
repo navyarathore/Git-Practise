@@ -2,4 +2,7 @@
 Git Pratcise Repo.
 
 
-<video src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" width=180/>
+Here is the video of a bug:
+[https://and-here-comes-the-url](https://youtu.be/4AXkOjrZsaI)
+
+some other text...
